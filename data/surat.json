@@ -64,5 +64,14 @@
     "tanggal": "2025-07-02",
     "perihal": "skl",
     "asal": "susi"
+  },
+  {
+    "no": "900",
+    "tanggal": "2025-07-01",
+    "perihal": "sppd",
+    "asal": "mhs",
+    "lampiran": [
+      "lampiran/1751718492450_smp.jpg"
+    ]
   }
 ]
