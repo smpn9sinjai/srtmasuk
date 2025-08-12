@@ -8,7 +8,7 @@
       "lampiran/1752670621552_skl.pdf"
     ]
   },
-{
+  {
     "no": "444",
     "tanggal": "2025-07-20",
     "perihal": "aaa",
@@ -17,15 +17,16 @@
       "lampiran/1752670621552_skl.pdf"
     ]
   },
-{
+  {
     "no": "444",
     "tanggal": "2025-07-2",
     "perihal": "aaa",
     "asal": "asdasd",
     "lampiran": [
       "lampiran/1752670621552_skl.pdf"
-    ]},
-{
+    ]
+  },
+  {
     "no": "444",
     "tanggal": "2025-07-17",
     "perihal": "aaa",
@@ -33,7 +34,14 @@
     "lampiran": [
       "lampiran/1752670621552_skl.pdf"
     ]
+  },
+  {
+    "no": "223",
+    "tanggal": "2025-08-14",
+    "perihal": "232",
+    "asal": "232",
+    "lampiran": [
+      "lampiran/1754999152943_Pak Zul.pdf"
+    ]
   }
- 
 ]
-
