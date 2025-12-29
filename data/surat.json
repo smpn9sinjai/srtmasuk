@@ -1,5 +1,4 @@
 [
- 
   {
     "tanggal": "2025-12-29",
     "kegiatan": "Porseni",
@@ -9,7 +8,7 @@
       "lampiran/1766972714482_cap12.PNG"
     ]
   },
-   {
+  {
     "tanggal": "2025-01-29",
     "kegiatan": "Porseni",
     "lampiran": [
@@ -27,13 +26,20 @@
       "lampiran/1766972714482_cap12.PNG"
     ]
   },
- {
+  {
     "tanggal": "2026-01-29",
     "kegiatan": "Rapat Khusus",
     "lampiran": [
       "lampiran/1766972710998_cap12.PNG",
       "lampiran/1766972713272_cap12.PNG",
       "lampiran/1766972714482_cap12.PNG"
+    ]
+  },
+  {
+    "tanggal": "2025-12-29",
+    "kegiatan": "komm",
+    "lampiran": [
+      "lampiran/1766974349888_Screenshot (1).jpg"
     ]
   }
 ]
